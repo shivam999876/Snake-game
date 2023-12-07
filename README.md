@@ -1,2 +1,2 @@
 # Snake-game
-This repository is created for Snake Game.
+Enjoy and feel the Game.
